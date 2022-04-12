@@ -16,6 +16,9 @@ The infrastructural development was allocated Ksh. 368.5 billions, followed by t
 ## The Big- 4 Allocations
 
 A summary of the Big 4 agendas budget allocation is presented in figure below. 
+
+![image](https://user-images.githubusercontent.com/74916045/162931963-bb4bdad4-9a67-4e6d-be87-397137e17fea.png)
+
  
 The biggest winner is healthcare sector where Ksh. 62.3 billion was allocated to provision of universal healthcare. The second was enhancing food nutrition and security allocated Ksh. 46.8 billion. The least in big 4 was supporting manufacturing for job creation allocated Ksh. 10.1 billion. 
 
